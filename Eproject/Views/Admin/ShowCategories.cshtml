@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "ShowCategories";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model List<Category>;
+<h1>ShowCategories</h1>
+
+
+<div class="card">
+    <h5 class="card-header">Table Basic</h5>
+    <div class="table-responsive text-nowrap">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Categories Name</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody class="table-border-bottom-0">
+                @{
+                    foreach(var categories in Model)
+                    {
+                        <tr>
+                            <td> <strong>@categories.Cat_Name</strong></td>
+                            <td>
+                                <button><a href="@Url.Action("UpdateCat", "Admin", new { id = categories.CatID })">Update</a></button>
+                                <button><a href="@Url.Action("DeleteCat", "Admin", new { id = categories.CatID })">Delete</a></button>
+                                
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
