@@ -24,8 +24,8 @@
                         <tr>
                             <td> <strong>@categories.Cat_Name</strong></td>
                             <td>
-                                <button><a href="@Url.Action("UpdateCat", "Admin", new { id = categories.CatID })">Update</a></button>
-                                <button><a href="@Url.Action("DeleteCat", "Admin", new { id = categories.CatID })">Delete</a></button>
+                                <a href="@Url.Action("UpdateCat", "Admin", new { id = categories.CatID })">Update</a>
+                                <a href="@Url.Action("DeleteCat", "Admin", new { id = categories.CatID })">Delete</a>
                                 
                             </td>
                         </tr>

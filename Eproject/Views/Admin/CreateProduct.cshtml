@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewData["Title"] = "CreateProduct";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Eproject.ViewModels.ProductFormVM;
+<h1>CreateProduct</h1>
+
+<div class="row">
+    <div class="col-xl">
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">Add Categories</h5>
+                <small class="text-muted float-end">Default label</small>
+            </div>
+            <div class="card-body">
+                <form method="post" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <label class="form-label" for="basic-default-fullname">Product Name</label>
+                        <input type="text" class="form-control" id="basic-default-fullname" placeholder="Jeans..." name="Product.Name" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label" for="basic-default-fullname">Product Decription</label>
+                        <input type="text" class="form-control" id="basic-default-fullname" placeholder="John Doe" name="Product.description" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label" for="basic-default-fullname">Product Price</label>
+                        <input type="text" class="form-control" id="basic-default-fullname" placeholder="John Doe" name="Product.price" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label" for="basic-default-fullname">Product Quantity</label>
+                        <input type="text" class="form-control" id="basic-default-fullname" placeholder="00" name="Product.qty" />
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label class="form-label" for="basic-default-fullname">Product Image</label>
+                        <input type="file" class="form-control" id="basic-default-fullname" placeholder="Image" name="ImageFile" />
+
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label" for="basic-default-fullname">Categories Name</label>
+                        <select class="form-control" name="Product.CatID">
+                            <option value="">Select</option>
+                            @{
+                                foreach(var cat in Model.Categories)
+                                {
+                                    <option value="@cat.Value">@cat.Text</option>
+                                }
+                            }
+                        </select>
+                    </div>
+
+
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

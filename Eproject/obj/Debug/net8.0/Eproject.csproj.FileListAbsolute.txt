@@ -281,3 +281,4 @@ D:\Ecomerce\Eproject\Eproject\obj\Debug\net8.0\refint\Eproject.dll
 D:\Ecomerce\Eproject\Eproject\obj\Debug\net8.0\Eproject.pdb
 D:\Ecomerce\Eproject\Eproject\obj\Debug\net8.0\Eproject.genruntimeconfig.cache
 D:\Ecomerce\Eproject\Eproject\obj\Debug\net8.0\ref\Eproject.dll
+D:\Ecomerce\Eproject\Eproject\obj\Debug\net8.0\Eproject.sourcelink.json

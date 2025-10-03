@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewData["Title"] = "UpdateProduct";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Eproject.ViewModels.ProductFormVM;
+<h1>UpdateProduct</h1>
+
+@{
+    if (!string.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <h1>@Model.ErrorMessage</h1>
+    }
+}
+<div class="row">
+    <div class="col-xl">
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">Basic Layout</h5>
+                <small class="text-muted float-end">Default label</small>
+            </div>
+            <div class="card-body">
+                <form method="post">
+                    <div class="mb-3">
+                        <label class="form-label" for="basic-default-fullname">Product Name</label>
+                        <input type="text" class="form-control" id="basic-default-fullname" placeholder="John Doe"
+                               name="Product.Name" value="@Model.Product.Name" />
+                        <label class="form-label" for="basic-default-fullname">Product Decription</label>
+                        <input type="text" class="form-control" id="basic-default-fullname" placeholder="Decription"
+                               name="Product.description" value="@Model.Product.description" />
+                        <label class="form-label" for="basic-default-fullname">Product Price</label>
+                        <input type="text" class="form-control" id="basic-default-fullname" placeholder="00.00"
+                               name="Product.price" value="@Model.Product.price" />
+                        <label class="form-label" for="basic-default-fullname">Quantity</label>
+                        <input type="text" class="form-control" id="basic-default-fullname" placeholder="00"
+                               name="Product.qty" value="@Model.Product.qty" />
+
+                        <input type="hidden" class="form-control" id="basic-default-fullname" placeholder="John Doe"
+                               name="Product.ID" value="@Model.Product.ID" />
+
+                        <label class="form-label" for="basic-default-fullname">Product Image</label>
+                        <input type="file" class="form-control" id="basic-default-fullname" placeholder="00"
+                               name="ImageFile" />
+
+                        <div>
+                            <label class="form-label" for="basic-default-fullname">Select A Category</label>
+                            <select class="form-controll" name="Product.CatID">
+                                <option value="">Select A Category</option>
+                                @{
+                                    if (!string.IsNullOrEmpty(Model.Product.CatID.ToString()))
+                                    {
+                                        <option value="@Model.Product.CatID" selected>@Model.Product.Category?.Cat_Name</option>
+                                    }
+
+                                    foreach (var cat in Model.Categories)
+                                    {
+                                        if (cat.Value != Model.Product.CatID.ToString())
+                                        {
+                                            <option value="@cat.Value">@cat.Text</option>
+                                        }
+                                    }
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Update</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

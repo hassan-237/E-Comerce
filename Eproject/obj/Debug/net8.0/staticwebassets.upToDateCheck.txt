@@ -1,4 +1,6 @@
 wwwroot\assets\css\demo.css
+wwwroot\assets\images\328842-P9ZNA7-604.png
+wwwroot\assets\images\farid-amin-zh5VLKdDfww-unsplash.jpg
 wwwroot\assets\img\avatars\1.png
 wwwroot\assets\img\avatars\5.png
 wwwroot\assets\img\avatars\6.png
