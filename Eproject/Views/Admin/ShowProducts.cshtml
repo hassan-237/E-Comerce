@@ -13,11 +13,13 @@
         <table class="table col-12 col-sm-6 col-md-4 col-lg-3">
             <thead>
                 <tr>
+                    <th scope="col">Product Image</th>
                     <th scope="col">Product Name</th>
                     <th scope="col">Product Description</th>
                     <th scope="col">Product Price</th>
                     <th scope="col">Product Quantity</th>
-                    <th scope="col">Product Category Name</th>
+                    <th scope="col">Product Category</th>
+                    <th scope="col">Action</th>
                 </tr>
             </thead>
             <tbody class="table-border-bottom-0">
@@ -32,11 +34,9 @@
                             <td> <strong>@product.description</strong></td>
                             <td> <strong>@product.price</strong></td>
                             <td> <strong>@product.qty</strong></td>
-                            <td> <strong>@product.Category?.Cat_Name</strong></td>
-                            <td>
+                            <td> <strong>@product.Category?.Cat_Name</strong>
                                 <a href="@Url.Action("UpdateProduct", "Admin", new { id = product.CatID })">Update</a>
                                 <a href="@Url.Action("DeleteProduct", "Admin", new { id = product.CatID })">Delete</a>
-
                             </td>
                         </tr>
                     }

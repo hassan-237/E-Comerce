@@ -177,6 +177,10 @@ namespace Eproject.Controllers
         public async Task<IActionResult> DeleteProduct(int id)
         {
             var product = await _dbcontext.Products.FirstOrDefaultAsync(p => p.ID == id);
+            if (product == null)
+            {
+                return NotFound();
+            }
             _dbcontext.Products.Remove(product);
             await _dbcontext.SaveChangesAsync();
             return RedirectToAction("ShowProducts");

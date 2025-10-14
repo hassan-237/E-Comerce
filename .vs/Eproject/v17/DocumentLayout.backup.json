@@ -3,60 +3,112 @@
   "WorkspaceRootPath": "D:\\Ecomerce\\Eproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251003151534_product_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Eproject\\Migrations\\20251003151534_product_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\showproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\showproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\showcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\showcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\createcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\createcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\updatecat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\updatecat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\deletecat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\deletecat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\createcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\createcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\viewmodels\\layoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\viewmodels\\layoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\showproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\showproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\viewmodels\\productformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\viewmodels\\productformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\deletecat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\deletecat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\showcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\showcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\migrations\\20251003151534_product_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\migrations\\20251003151534_product_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\updatecat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\updatecat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\migrations\\20250923080027_categorieswork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,24 +119,16 @@
       "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\eproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\eproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\migrations\\20251010071442_for forign key relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\migrations\\20251010071442_for forign key relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,17 +138,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Eproject\\Controllers\\AdminController.cs",
               "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Eproject\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAwwLAAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAiwJQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T10:16:03.423Z",
               "IsPinned": true,
@@ -112,94 +156,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T09:45:30.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20251003151534_product_crud.cs",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251003151534_product_crud.cs",
-              "RelativeDocumentMoniker": "Eproject\\Migrations\\20251003151534_product_crud.cs",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251003151534_product_crud.cs",
-              "RelativeToolTip": "Eproject\\Migrations\\20251003151534_product_crud.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T15:15:36.616Z",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAANEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T08:24:32.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UpdateProduct.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\UpdateProduct.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\UpdateProduct.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\UpdateProduct.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Admin\\UpdateProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-03T07:27:24.245Z",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Eproject\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Eproject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:46:44.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAMwJEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T10:11:50.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShowCategories.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\ShowCategories.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\ShowCategories.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\ShowCategories.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Admin\\ShowCategories.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAIwBsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T16:26:56.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShowProducts.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\ShowProducts.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\ShowProducts.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\ShowProducts.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Admin\\ShowProducts.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwCQAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-28T10:11:51.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Eproject\\Models\\Product.cs",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\Product.cs",
-              "RelativeToolTip": "Eproject\\Models\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T16:55:19.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DeleteProduct.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\DeleteProduct.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\DeleteProduct.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\DeleteProduct.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Admin\\DeleteProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-03T08:08:22.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "CreateCategories.cshtml",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateCategories.cshtml",
               "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\CreateCategories.cshtml",
@@ -207,11 +203,155 @@
               "RelativeToolTip": "Eproject\\Views\\Admin\\CreateCategories.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T16:22:22.519Z"
+              "WhenOpened": "2025-09-22T16:22:22.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteCat.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\DeleteCat.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\DeleteCat.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\DeleteCat.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Admin\\DeleteCat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T09:03:52.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Eproject\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "Eproject\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:11:53.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Eproject\\Models\\User.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\User.cs",
+              "RelativeToolTip": "Eproject\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:06:48.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251013081217_User Authentication plus login register.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
+              "RelativeDocumentMoniker": "Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
+              "RelativeToolTip": "Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:12:18.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\CreateProduct.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Admin\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T11:03:50.745Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAwIYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T07:34:36.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LayoutVM.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\LayoutVM.cs",
+              "RelativeDocumentMoniker": "Eproject\\ViewModels\\LayoutVM.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\LayoutVM.cs",
+              "RelativeToolTip": "Eproject\\ViewModels\\LayoutVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:15:12.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Eproject\\ViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "Eproject\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:14:03.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Eproject\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Eproject\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:16:02.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Eproject\\Enums\\UserRole.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Eproject\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:11:30.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Program.cs",
+              "RelativeDocumentMoniker": "Eproject\\Program.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Program.cs",
+              "RelativeToolTip": "Eproject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:15:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ProductFormVM.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\ProductFormVM.cs",
               "RelativeDocumentMoniker": "Eproject\\ViewModels\\ProductFormVM.cs",
@@ -223,7 +363,116 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Eproject\\Models\\Product.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\Product.cs",
+              "RelativeToolTip": "Eproject\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T16:55:19.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShowProducts.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\ShowProducts.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\ShowProducts.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\ShowProducts.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Admin\\ShowProducts.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T10:11:51.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Eproject\\Models\\Category.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\Category.cs",
+              "RelativeToolTip": "Eproject\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T16:55:24.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\UpdateProduct.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\UpdateProduct.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Admin\\UpdateProduct.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T07:27:24.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\DeleteProduct.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\DeleteProduct.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Admin\\DeleteProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T08:08:22.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20251010071442_for forign key relation.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251010071442_for forign key relation.cs",
+              "RelativeDocumentMoniker": "Eproject\\Migrations\\20251010071442_for forign key relation.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251010071442_for forign key relation.cs",
+              "RelativeToolTip": "Eproject\\Migrations\\20251010071442_for forign key relation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:14:44.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShowCategories.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\ShowCategories.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\ShowCategories.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\ShowCategories.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Admin\\ShowCategories.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T16:26:56.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAMwJEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T10:11:50.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251003151534_product_crud.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251003151534_product_crud.cs",
+              "RelativeDocumentMoniker": "Eproject\\Migrations\\20251003151534_product_crud.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251003151534_product_crud.cs",
+              "RelativeToolTip": "Eproject\\Migrations\\20251003151534_product_crud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:15:36.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "UpdateCat.cshtml",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\UpdateCat.cshtml",
               "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\UpdateCat.cshtml",
@@ -235,19 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateProduct.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateProduct.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\CreateProduct.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateProduct.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Admin\\CreateProduct.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAEwDIAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-28T11:03:50.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "CategoryVM.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\CategoryVM.cs",
               "RelativeDocumentMoniker": "Eproject\\ViewModels\\CategoryVM.cs",
@@ -259,31 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DeleteCat.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\DeleteCat.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\DeleteCat.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\DeleteCat.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Admin\\DeleteCat.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-23T09:03:52.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Program.cs",
-              "RelativeDocumentMoniker": "Eproject\\Program.cs",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Program.cs",
-              "RelativeToolTip": "Eproject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T10:15:23.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "Eproject.csproj",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Eproject.csproj",
               "RelativeDocumentMoniker": "Eproject\\Eproject.csproj",
@@ -295,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\appsettings.json",
               "RelativeDocumentMoniker": "Eproject\\appsettings.json",
@@ -307,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "20250923080027_CategoriesWork.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20250923080027_CategoriesWork.cs",
               "RelativeDocumentMoniker": "Eproject\\Migrations\\20250923080027_CategoriesWork.cs",
@@ -319,19 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Eproject\\Models\\AppDbContext.cs",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "Eproject\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:16:02.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "index.cshtml",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\index.cshtml",
               "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\index.cshtml",
@@ -340,18 +541,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-22T15:08:43.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Eproject\\Models\\Category.cs",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\Category.cs",
-              "RelativeToolTip": "Eproject\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T16:55:24.918Z"
             }
           ]
         }

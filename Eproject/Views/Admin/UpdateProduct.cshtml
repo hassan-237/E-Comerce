@@ -20,7 +20,7 @@
                 <small class="text-muted float-end">Default label</small>
             </div>
             <div class="card-body">
-                <form method="post">
+                <form method="post" enctype="multipart/form-data">
                     <div class="mb-3">
                         <label class="form-label" for="basic-default-fullname">Product Name</label>
                         <input type="text" class="form-control" id="basic-default-fullname" placeholder="John Doe"
@@ -47,7 +47,7 @@
                             <select class="form-controll" name="Product.CatID">
                                 <option value="">Select A Category</option>
                                 @{
-                                    if (!string.IsNullOrEmpty(Model.Product.CatID.ToString()))
+                                    if (string.IsNullOrEmpty(Model.Product.CatID.ToString()))
                                     {
                                         <option value="@Model.Product.CatID" selected>@Model.Product.Category?.Cat_Name</option>
                                     }
