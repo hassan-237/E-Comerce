@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\Ecomerce\\Eproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\admin\\createcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\viewmodels\\layoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\viewmodels\\layoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|solutionrelative:eproject\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A38825DF-157D-4A3C-94C3-EA82A3BB52C6}|Eproject\\Eproject.csproj|d:\\ecomerce\\eproject\\eproject\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,73 +142,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Eproject\\Controllers\\AdminController.cs",
               "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Eproject\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAiwJQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAowKkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T10:16:03.423Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T09:45:30.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Register.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Register.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T08:24:32.8Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T08:51:48.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Eproject\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Eproject\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwDUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAwwJIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T07:46:44.774Z"
+              "WhenOpened": "2025-10-13T07:46:44.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateCategories.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateCategories.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\CreateCategories.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateCategories.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Admin\\CreateCategories.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T16:22:22.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "DeleteCat.cshtml",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\DeleteCat.cshtml",
               "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\DeleteCat.cshtml",
@@ -216,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "Eproject\\ViewModels\\RegisterVM.cs",
@@ -228,67 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Eproject\\Models\\User.cs",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\User.cs",
-              "RelativeToolTip": "Eproject\\Models\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T06:06:48.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20251013081217_User Authentication plus login register.cs",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
-              "RelativeDocumentMoniker": "Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
-              "RelativeToolTip": "Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T08:12:18.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateProduct.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateProduct.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\CreateProduct.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateProduct.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Admin\\CreateProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-28T11:03:50.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "Eproject\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "Eproject\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAwIYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T07:34:36.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LayoutVM.cs",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\LayoutVM.cs",
-              "RelativeDocumentMoniker": "Eproject\\ViewModels\\LayoutVM.cs",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\LayoutVM.cs",
-              "RelativeToolTip": "Eproject\\ViewModels\\LayoutVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T07:15:12.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\LoginVM.cs",
               "RelativeDocumentMoniker": "Eproject\\ViewModels\\LoginVM.cs",
@@ -300,7 +222,118 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Program.cs",
+              "RelativeDocumentMoniker": "Eproject\\Program.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Program.cs",
+              "RelativeToolTip": "Eproject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:15:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T09:45:30.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAM0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T08:24:32.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCategories.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateCategories.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\CreateCategories.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateCategories.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Admin\\CreateCategories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T16:22:22.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Eproject\\Models\\User.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\User.cs",
+              "RelativeToolTip": "Eproject\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:06:48.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20251013081217_User Authentication plus login register.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
+              "RelativeDocumentMoniker": "Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
+              "RelativeToolTip": "Eproject\\Migrations\\20251013081217_User Authentication plus login register.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:12:18.287Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\CreateProduct.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Admin\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T11:03:50.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Eproject\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Eproject\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAwIYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T07:34:36.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LayoutVM.cs",
+              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\LayoutVM.cs",
+              "RelativeDocumentMoniker": "Eproject\\ViewModels\\LayoutVM.cs",
+              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\LayoutVM.cs",
+              "RelativeToolTip": "Eproject\\ViewModels\\LayoutVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:15:12.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Eproject\\Models\\AppDbContext.cs",
@@ -312,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Enums\\UserRole.cs",
               "RelativeDocumentMoniker": "Eproject\\Enums\\UserRole.cs",
@@ -324,19 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Program.cs",
-              "RelativeDocumentMoniker": "Eproject\\Program.cs",
-              "ToolTip": "D:\\Ecomerce\\Eproject\\Eproject\\Program.cs",
-              "RelativeToolTip": "Eproject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T10:15:23.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ProductFormVM.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\ProductFormVM.cs",
               "RelativeDocumentMoniker": "Eproject\\ViewModels\\ProductFormVM.cs",
@@ -348,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Eproject\\Models\\Product.cs",
@@ -360,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ShowProducts.cshtml",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\ShowProducts.cshtml",
               "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\ShowProducts.cshtml",
@@ -372,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Eproject\\Models\\Category.cs",
@@ -384,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "UpdateProduct.cshtml",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\UpdateProduct.cshtml",
               "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\UpdateProduct.cshtml",
@@ -396,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "DeleteProduct.cshtml",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\DeleteProduct.cshtml",
               "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\DeleteProduct.cshtml",
@@ -408,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "20251010071442_for forign key relation.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251010071442_for forign key relation.cs",
               "RelativeDocumentMoniker": "Eproject\\Migrations\\20251010071442_for forign key relation.cs",
@@ -420,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ShowCategories.cshtml",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\ShowCategories.cshtml",
               "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\ShowCategories.cshtml",
@@ -432,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Eproject\\Views\\Shared\\_AdminLayout.cshtml",
@@ -444,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "20251003151534_product_crud.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20251003151534_product_crud.cs",
               "RelativeDocumentMoniker": "Eproject\\Migrations\\20251003151534_product_crud.cs",
@@ -456,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "UpdateCat.cshtml",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\UpdateCat.cshtml",
               "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\UpdateCat.cshtml",
@@ -468,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "CategoryVM.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\ViewModels\\CategoryVM.cs",
               "RelativeDocumentMoniker": "Eproject\\ViewModels\\CategoryVM.cs",
@@ -480,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Eproject.csproj",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Eproject.csproj",
               "RelativeDocumentMoniker": "Eproject\\Eproject.csproj",
@@ -492,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\appsettings.json",
               "RelativeDocumentMoniker": "Eproject\\appsettings.json",
@@ -504,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "20250923080027_CategoriesWork.cs",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Migrations\\20250923080027_CategoriesWork.cs",
               "RelativeDocumentMoniker": "Eproject\\Migrations\\20250923080027_CategoriesWork.cs",
@@ -516,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "index.cshtml",
               "DocumentMoniker": "D:\\Ecomerce\\Eproject\\Eproject\\Views\\Admin\\index.cshtml",
               "RelativeDocumentMoniker": "Eproject\\Views\\Admin\\index.cshtml",
